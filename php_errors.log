@@ -1,0 +1,638 @@
+[28-Jun-2019 08:43:19 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+ in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[28-Jun-2019 08:43:26 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+ in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[28-Jun-2019 08:44:50 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+ in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[28-Jun-2019 08:45:52 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+ in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[28-Jun-2019 08:55:19 UTC] PHP Fatal error:  Uncaught Error: Wrong parameters for Jumbojett\OpenIDConnectClientException([string $message [, long $code [, Throwable $previous = NULL]]]) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:271
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(271): Exception->__construct(Object(stdClass))
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(44): Jumbojett\OpenIDConnectClient->authenticate()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 271
+[28-Jun-2019 08:56:21 UTC] PHP Fatal error:  Uncaught Error: Wrong parameters for Jumbojett\OpenIDConnectClientException([string $message [, long $code [, Throwable $previous = NULL]]]) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:271
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(271): Exception->__construct(Object(stdClass))
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(44): Jumbojett\OpenIDConnectClient->authenticate()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 271
+[28-Jun-2019 09:00:51 UTC] PHP Fatal error:  Uncaught Error: Wrong parameters for Jumbojett\OpenIDConnectClientException([string $message [, long $code [, Throwable $previous = NULL]]]) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:271
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(271): Exception->__construct(Object(stdClass))
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(45): Jumbojett\OpenIDConnectClient->authenticate()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 271
+[28-Jun-2019 09:04:51 UTC] PHP Fatal error:  Uncaught Error: Wrong parameters for Jumbojett\OpenIDConnectClientException([string $message [, long $code [, Throwable $previous = NULL]]]) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:271
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(271): Exception->__construct(Object(stdClass))
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(45): Jumbojett\OpenIDConnectClient->authenticate()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 271
+[01-Jul-2019 09:52:36 UTC] PHP Fatal error:  Uncaught Error: Wrong parameters for Jumbojett\OpenIDConnectClientException([string $message [, long $code [, Throwable $previous = NULL]]]) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:271
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(271): Exception->__construct(Object(stdClass))
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(45): Jumbojett\OpenIDConnectClient->authenticate()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 271
+[01-Jul-2019 09:57:13 UTC] PHP Notice:  Undefined index: ABSPATH in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 5
+[01-Jul-2019 09:57:13 UTC] PHP Stack trace:
+[01-Jul-2019 09:57:13 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 09:57:13 UTC] PHP Warning:  require_once(/wp-load.php): failed to open stream: No such file or directory in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 5
+[01-Jul-2019 09:57:13 UTC] PHP Stack trace:
+[01-Jul-2019 09:57:13 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 09:57:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-load.php' (include_path='.;C:\php\pear') in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 5
+[01-Jul-2019 09:57:13 UTC] PHP Stack trace:
+[01-Jul-2019 09:57:13 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 09:57:41 UTC] PHP Notice:  Undefined index: shortcode in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 11
+[01-Jul-2019 09:57:41 UTC] PHP Stack trace:
+[01-Jul-2019 09:57:41 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 09:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 16
+[01-Jul-2019 10:00:09 UTC] PHP Warning:  Illegal string offset 'domain' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 10:00:09 UTC] PHP Stack trace:
+[01-Jul-2019 10:00:09 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:00:09 UTC] PHP Warning:  Illegal string offset 'client_id' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 15
+[01-Jul-2019 10:00:09 UTC] PHP Stack trace:
+[01-Jul-2019 10:00:09 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:00:09 UTC] PHP Warning:  Illegal string offset 'implicit' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 31
+[01-Jul-2019 10:00:09 UTC] PHP Stack trace:
+[01-Jul-2019 10:00:09 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:00:09 UTC] PHP Warning:  Illegal string offset 'redirect_uri' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 33
+[01-Jul-2019 10:00:09 UTC] PHP Stack trace:
+[01-Jul-2019 10:00:09 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:00:09 UTC] PHP Warning:  Illegal string offset 'acr_values' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 34
+[01-Jul-2019 10:00:09 UTC] PHP Stack trace:
+[01-Jul-2019 10:00:09 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:00:09 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: { in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://{/.well...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+#4 C:\crii in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 10:00:52 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 10:01:16 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 12
+[01-Jul-2019 10:01:59 UTC] PHP Notice:  Undefined index: shortcode in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 11
+[01-Jul-2019 10:01:59 UTC] PHP Stack trace:
+[01-Jul-2019 10:01:59 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:01:59 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+ in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 10:02:33 UTC] PHP Notice:  Undefined index: shortcode in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 11
+[01-Jul-2019 10:02:33 UTC] PHP Stack trace:
+[01-Jul-2019 10:02:33 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:02:33 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+ in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 10:03:50 UTC] PHP Warning:  Illegal string offset 'domain' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 10:03:50 UTC] PHP Stack trace:
+[01-Jul-2019 10:03:50 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:03:50 UTC] PHP Warning:  Illegal string offset 'client_id' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 15
+[01-Jul-2019 10:03:50 UTC] PHP Stack trace:
+[01-Jul-2019 10:03:50 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:03:50 UTC] PHP Warning:  Illegal string offset 'implicit' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 31
+[01-Jul-2019 10:03:50 UTC] PHP Stack trace:
+[01-Jul-2019 10:03:50 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:03:50 UTC] PHP Warning:  Illegal string offset 'redirect_uri' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 33
+[01-Jul-2019 10:03:50 UTC] PHP Stack trace:
+[01-Jul-2019 10:03:50 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:03:50 UTC] PHP Warning:  Illegal string offset 'acr_values' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 34
+[01-Jul-2019 10:03:50 UTC] PHP Stack trace:
+[01-Jul-2019 10:03:50 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:03:50 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: " in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://"/.well...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+#4 C:\crii in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 10:04:04 UTC] PHP Warning:  Illegal string offset 'domain' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 10:04:04 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:04 UTC] PHP Warning:  Illegal string offset 'client_id' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 15
+[01-Jul-2019 10:04:04 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:04 UTC] PHP Warning:  Illegal string offset 'implicit' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 31
+[01-Jul-2019 10:04:04 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:04 UTC] PHP Warning:  Illegal string offset 'redirect_uri' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 33
+[01-Jul-2019 10:04:04 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:04 UTC] PHP Warning:  Illegal string offset 'acr_values' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 34
+[01-Jul-2019 10:04:04 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:04 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: " in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://"/.well...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+#4 C:\crii in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 10:04:14 UTC] PHP Warning:  Illegal string offset 'domain' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 10:04:14 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:14 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:14 UTC] PHP Warning:  Illegal string offset 'client_id' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 15
+[01-Jul-2019 10:04:14 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:14 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:14 UTC] PHP Warning:  Illegal string offset 'implicit' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 31
+[01-Jul-2019 10:04:14 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:14 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:14 UTC] PHP Warning:  Illegal string offset 'redirect_uri' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 33
+[01-Jul-2019 10:04:14 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:14 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:14 UTC] PHP Warning:  Illegal string offset 'acr_values' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 34
+[01-Jul-2019 10:04:14 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:14 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:14 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: " in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://"/.well...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+#4 C:\crii in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 10:04:28 UTC] PHP Warning:  Illegal string offset 'domain' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 10:04:28 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:28 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:28 UTC] PHP Warning:  Illegal string offset 'client_id' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 15
+[01-Jul-2019 10:04:28 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:28 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:28 UTC] PHP Warning:  Illegal string offset 'implicit' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 31
+[01-Jul-2019 10:04:28 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:28 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:28 UTC] PHP Warning:  Illegal string offset 'redirect_uri' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 33
+[01-Jul-2019 10:04:28 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:28 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:28 UTC] PHP Warning:  Illegal string offset 'acr_values' in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 34
+[01-Jul-2019 10:04:28 UTC] PHP Stack trace:
+[01-Jul-2019 10:04:28 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 10:04:28 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: " in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://"/.well...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectClient->requestAuthorization()
+#4 C:\crii in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[01-Jul-2019 11:36:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 13
+[01-Jul-2019 11:38:09 UTC] PHP Warning:  The use statement with non-compound name 'WP_Criipto_Verify_Options' has no effect in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 6
+[01-Jul-2019 11:38:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 11:41:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 11:43:09 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 18:56:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Option' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 7
+[01-Jul-2019 18:56:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Option' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 18:56:52 UTC] PHP Notice:  Undefined variable: criipto in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 13
+[01-Jul-2019 18:56:52 UTC] PHP Stack trace:
+[01-Jul-2019 18:56:52 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 18:56:52 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 13
+[01-Jul-2019 18:58:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Option' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 18:59:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Option' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 18:59:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Option' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 18:59:53 UTC] PHP Notice:  Undefined variable: criipto in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 18:59:53 UTC] PHP Stack trace:
+[01-Jul-2019 18:59:53 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 18:59:53 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 19:00:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 19:01:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 19:02:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 19:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Criiptoverify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 19:02:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Criiptoverify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[01-Jul-2019 19:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 15
+[01-Jul-2019 19:06:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Criiptoverify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 10
+[01-Jul-2019 19:06:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Criiptoverify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 10
+[01-Jul-2019 19:06:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Criiptoverify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 10
+[01-Jul-2019 19:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 10
+[01-Jul-2019 19:10:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 10
+[01-Jul-2019 19:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 10
+[01-Jul-2019 19:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Criiptoverify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(11): Criiptoverify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(53): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Criiptoverify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(11): Criiptoverify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(53): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Criiptoverify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(11): Criiptoverify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(53): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(11): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(53): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(11): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(53): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(11): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(53): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:14:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:9
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(51): openIdConnect()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 9
+[01-Jul-2019 19:14:58 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:9
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(51): openIdConnect()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 9
+[01-Jul-2019 19:15:17 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:9
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(51): openIdConnect()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 9
+[01-Jul-2019 19:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:9
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(51): openIdConnect()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 9
+[01-Jul-2019 19:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(9): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(51): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(9): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(52): openIdConnect()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(8): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(8): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:23:04 UTC] PHP Warning:  require(C:\criipto_verify\wp-content\plugins\wp-criipto-verifyWP_Criipto_Verify_Options.php): failed to open stream: No such file or directory in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 4
+[01-Jul-2019 19:23:04 UTC] PHP Stack trace:
+[01-Jul-2019 19:23:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 19:23:04 UTC] PHP Fatal error:  require(): Failed opening required 'C:\criipto_verify\wp-content\plugins\wp-criipto-verifyWP_Criipto_Verify_Options.php' (include_path='.;C:\php\pear') in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 4
+[01-Jul-2019 19:23:04 UTC] PHP Stack trace:
+[01-Jul-2019 19:23:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 19:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:11
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(8): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 11
+[01-Jul-2019 19:32:23 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:33:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:35:24 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:13
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(8): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 13
+[01-Jul-2019 19:36:15 UTC] PHP Deprecated:  Non-static method CriiptoVerify\WP_Criipto_Verify_Options::clientsecret() should not be called statically in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:36:15 UTC] PHP Stack trace:
+[01-Jul-2019 19:36:15 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 19:37:04 UTC] PHP Deprecated:  Non-static method CriiptoVerify\WP_Criipto_Verify_Options::clientsecret() should not be called statically in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[01-Jul-2019 19:37:04 UTC] PHP Stack trace:
+[01-Jul-2019 19:37:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[01-Jul-2019 19:37:05 UTC] PHP Fatal error:  Uncaught Error: Wrong parameters for Jumbojett\OpenIDConnectClientException([string $message [, long $code [, Throwable $previous = NULL]]]) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:271
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(271): Exception->__construct(Object(stdClass))
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(42): Jumbojett\OpenIDConnectClient->authenticate()
+#2 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 271
+[02-Jul-2019 08:11:04 UTC] PHP Deprecated:  Non-static method CriiptoVerify\WP_Criipto_Verify_Options::clientsecret() should not be called statically in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[02-Jul-2019 08:11:04 UTC] PHP Stack trace:
+[02-Jul-2019 08:11:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 08:12:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[02-Jul-2019 08:12:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:13
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(8): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 13
+[02-Jul-2019 08:13:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[02-Jul-2019 08:17:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[02-Jul-2019 08:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CriiptoVerify\WP_Criipto_Verify_Options' not found in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 8
+[02-Jul-2019 08:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CriiptoVerify\get_option() in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php:13
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(8): CriiptoVerify\WP_Criipto_Verify_Options::Instance()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 13
+[02-Jul-2019 08:26:57 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\WP_Criipto_Verify_Options.php on line 13
+[02-Jul-2019 08:26:57 UTC] PHP Stack trace:
+[02-Jul-2019 08:26:57 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 08:26:57 UTC] PHP   2. CriiptoVerify\WP_Criipto_Verify_Options::Instance() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:8
+[02-Jul-2019 08:27:40 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 08:27:40 UTC] PHP Stack trace:
+[02-Jul-2019 08:27:40 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 08:28:08 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 08:28:08 UTC] PHP Stack trace:
+[02-Jul-2019 08:28:08 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 08:28:41 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 08:28:41 UTC] PHP Stack trace:
+[02-Jul-2019 08:28:41 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 08:28:47 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 284
+[02-Jul-2019 08:28:47 UTC] PHP Stack trace:
+[02-Jul-2019 08:28:47 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 08:28:47 UTC] PHP   2. Jumbojett\OpenIDConnectClient->authenticate() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:42
+[02-Jul-2019 08:28:47 UTC] PHP   3. property_exists() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:284
+[02-Jul-2019 08:28:47 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: User did not authorize openid scope. in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:285
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(42): Jumbojett\OpenIDConnectClient->authenticate()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 285
+[02-Jul-2019 09:09:07 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 09:09:07 UTC] PHP Stack trace:
+[02-Jul-2019 09:09:07 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 09:10:04 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 09:10:04 UTC] PHP Stack trace:
+[02-Jul-2019 09:10:04 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 09:10:10 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 284
+[02-Jul-2019 09:10:10 UTC] PHP Stack trace:
+[02-Jul-2019 09:10:10 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 09:10:10 UTC] PHP   2. Jumbojett\OpenIDConnectClient->authenticate() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:42
+[02-Jul-2019 09:10:10 UTC] PHP   3. property_exists() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:284
+[02-Jul-2019 09:10:10 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: User did not authorize openid scope. in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:285
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(42): Jumbojett\OpenIDConnectClient->authenticate()
+#1 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 285
+[02-Jul-2019 09:21:37 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 09:21:37 UTC] PHP Stack trace:
+[02-Jul-2019 09:21:37 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 09:40:08 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 09:40:08 UTC] PHP Stack trace:
+[02-Jul-2019 09:40:08 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 10:16:12 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 10:16:12 UTC] PHP Stack trace:
+[02-Jul-2019 10:16:12 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 10:16:14 UTC] PHP Warning:  Use of undefined constant CRIIPTO_VERIFY_CLIENT_SECRET - assumed 'CRIIPTO_VERIFY_CLIENT_SECRET' (this will throw an Error in a future version of PHP) in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 14
+[02-Jul-2019 10:16:14 UTC] PHP Stack trace:
+[02-Jul-2019 10:16:14 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 10:34:09 UTC] PHP Notice:  Undefined index: shortcode in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php on line 6
+[02-Jul-2019 10:34:09 UTC] PHP Stack trace:
+[02-Jul-2019 10:34:09 UTC] PHP   1. {main}() C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php:0
+[02-Jul-2019 10:34:09 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: Could not resolve host: .well-known in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https:/.well-kn...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('end_session_end...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(404): Jumbojett\OpenIDConnectClient->getProviderConfigValue('end_session_end...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\openIdConnect.php(22): Jumbojett\OpenIDConnectClient->signOut('', NULL)
+#4 {main}
+  thrown in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 08:56:07 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:01:11 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:01:55 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:07:10 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:29:41 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: /cacerts
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\Op in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:32:41 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: http://localhost/wp-content/plugins/cacerts
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDC in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:34:07 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: http://localhost/wp-content/plugins/
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectC in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:35:19 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: /
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDCon in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:37:05 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: C:\criipto_verify\wp-content\plugins\wp-criipto-verify//cacerts
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-con in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:37:14 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: C:\criipto_verify\wp-content\plugins\wp-criipto-verify/cacerts
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-conn in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:37:28 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: error setting certificate verify locations:
+  CAfile: C:\criipto_verify\wp-content\plugins\wp-criipto-verify/cacerts/
+  CApath: none in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-con in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:40:26 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:44:45 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
+[04-Jul-2019 09:47:46 UTC] PHP Fatal error:  Uncaught Jumbojett\OpenIDConnectClientException: Curl error: SSL certificate problem: unable to get local issuer certificate in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php:1096
+Stack trace:
+#0 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(483): Jumbojett\OpenIDConnectClient->fetchURL('https://svenbjo...')
+#1 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(462): Jumbojett\OpenIDConnectClient->getWellKnownConfigValue('authorization_e...', NULL)
+#2 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(572): Jumbojett\OpenIDConnectClient->getProviderConfigValue('authorization_e...')
+#3 C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php(386): Jumbojett\OpenIDConnectCli in C:\criipto_verify\wp-content\plugins\wp-criipto-verify\vendor\jumbojett\openid-connect-php\src\OpenIDConnectClient.php on line 1096
